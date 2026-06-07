@@ -1,22 +1,18 @@
-# KERU - Cardápio Online
+# KERU
 
-Um cardápio online para facilitar o processo de pedidos e atendimento, focado na agilidade para o cliente de forma a conseguir realizar o pedido antes mesmo de chegar no local
+Repositório do **Grupo 02** do Projeto Interdisciplinar do **1º semestre** do curso de **Desenvolvimento de Software Multiplataforma - DSM** (Turma 2026/1).
 
-## Integrantes
+## 👨‍💻 Integrantes
 
-| Nome | GitHub |
-|-------|---------|
-| Alexsander Gabriel Pires | [GitHub](https://github.com/LostWorlddd) |
-| Guilherme Teixeira Ferreira | [GitHub](https://github.com/guilherme-txra) |
-| Leonardo de Melo Ernesto | [GitHub](https://github.com/leonardo-meloe) |
-| Pietro Reis Dias | [GitHub](https://github.com/PietroReis-07) |
+-   **[Alexsander Gabriel Pires](https://github.com/LostWorlddd)**
+-   **[Guilherme Teixeira Ferreira](https://github.com/guilherme-txra)**
+-   **[Leonardo de Melo Ernesto](https://github.com/leonardo-meloe)**
+-   **[Pietro Reis](https://github.com/PietroReis-07)**
 
-## Tecnologias Utilizadas
+## 📖 Sobre o Projeto
 
-* HTML5
-* CSS3
-* JavaScript
-* Git e GitHub
+O **KERU** é um cardápio online onde seu principal objetivo é facilitar o processo de pedidos e atendimento, focado na agilidade para o cliente de forma a conseguir realizar o pedido antes mesmo de chegar no local.
+
 
 ## Funcionalidades
 
@@ -40,21 +36,19 @@ Um cardápio online para facilitar o processo de pedidos e atendimento, focado n
 
 ****OBS:** Para testar a funcionalidade completa do projeto é recomendado abrir duas abas, sendo uma como **admin/restaurante** e outra como **user/cliente**
 
+## 🛠️ Tecnologias Utilizadas
+
+### 🎨 Front-end
+
+- **HTML5** - Estrutura das páginas
+- **CSS3** - Estilização e responsividade
+- **JavaScript** - Interatividade, validações e manipulação do DOM
+
+### 💾 Armazenamento
+
+- **LocalStorage** - Persistência de dados e controle de sessão diretamente no navegador
+
 ## Controle de Versão
 
 O projeto utiliza Git e GitHub para controle de versão e colaboração entre os integrantes da equipe.
 
-## Status do Projeto
-
-Em desenvolvimento.
-
-- [x] Página Login/Cadastro
-- [ ] Funcionalidade Página Login/Cadastro
-- [ ] Página Usuário
-- [ ] Página Admin
-- [ ] Funcionalidades Admin
-- [ ] Funcionalidades Admin
-
-## Licença
-
-Projeto desenvolvido para fins acadêmicos.
